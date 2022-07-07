@@ -43,8 +43,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `Yha`
-global.wm = 'Necto' //Nama Bot
+global.author = `Renal`
+global.wm = 'Reflux' //Nama Bot
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://instagram.com/nakataa1.a'
@@ -54,7 +54,7 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 100 // The higher, The harder levelup
 
 global.rpg = {
   emoticon(string) {
